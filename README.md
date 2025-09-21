@@ -5,6 +5,7 @@
 StressFree.co is a comprehensive mental wellness platform designed for students and young professionals, powered by AI-driven insights and interactive tools.
 
 Our solution provides a personalized mental health dashboard where users can:
+
 	•	Track Their Mental Health: Daily questionnaires measure stress, mood, and focus levels, visualized through charts and a color-coded mood calendar.
  
 	•	Receive AI-Driven Insights: Generative AI analyzes responses to predict mental health indicators like anxiety, procrastination, and burnout, and recommends actionable tips (e.g., breathing exercises, sleep routines).
